@@ -4,6 +4,8 @@ A Python 3 wrapper for the trading API of poloniex.com
 https://www.poloniex.com
 https://poloniex.com/support/api/
 
+Use it on your own risk!
+
 ## Install
 
 #### Python Version
